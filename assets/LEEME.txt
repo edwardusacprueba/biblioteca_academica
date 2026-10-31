@@ -1,0 +1,1 @@
+Guarda en esta carpeta las portadas de los libros (JPG, PNG o WebP).
